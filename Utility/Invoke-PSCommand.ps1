@@ -16,7 +16,7 @@
 
 <#  
 .SYNOPSIS  
-  Runs a PowerShell command, with or without parameters. 
+  Runs a PowerShell command, with or without parameters.  
   
 .DESCRIPTION  
   This runbook will run a PowerShell command, with or without parameters.
